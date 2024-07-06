@@ -7,5 +7,5 @@ I'm currently working on a full project to learn swiftUI and new features Apple 
 Check it out [here](https://github.com/gokulpulikkal/ExpensePal)
 
 ## Want to connect? 🤝
-- Follow me here on GitHub to keep updated with my work
-- Check out my [profile](https://www.linkedin.com/in/gokulpulikkal/)
+- Drop a mail at gokulplkl@gmail.com
+- Connect on [LinkedIn](https://www.linkedin.com/in/gokulpulikkal/)
