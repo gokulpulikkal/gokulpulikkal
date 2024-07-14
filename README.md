@@ -1,5 +1,6 @@
 ## Hi there 👋
-## About me 🤓
+![](https://komarev.com/ghpvc/?username=gokulpulikkal&color=green)
+
 I'm a Mobile App Developer with over 4 years of expertise in iOS, tvOS, and Roku platforms. I excel in crafting innovative and user-friendly apps, leveraging the latest industry technologies and trends to deliver high-quality, engaging experiences for clients and users.
 
 ## My latest project 👨‍💻
