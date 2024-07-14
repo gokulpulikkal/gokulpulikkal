@@ -1,5 +1,4 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=gokulpulikkal&color=green)
 
 I'm a Mobile App Developer with over 4 years of expertise in iOS, tvOS, and Roku platforms. I excel in crafting innovative and user-friendly apps, leveraging the latest industry technologies and trends to deliver high-quality, engaging experiences for clients and users.
 
@@ -10,3 +9,5 @@ Check it out [here](https://github.com/gokulpulikkal/ExpensePal)
 ## Want to connect? 🤝
 - Drop a mail at gokulplkl@gmail.com
 - Connect on [LinkedIn](https://www.linkedin.com/in/gokulpulikkal/)
+
+![](https://komarev.com/ghpvc/?username=gokulpulikkal&color=green)
