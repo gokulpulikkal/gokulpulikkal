@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Mobile App Developer with over 4 years of expertise in iOS, tvOS, and Roku platforms. I excel in crafting innovative and user-friendly apps, leveraging the latest industry technologies and trends to deliver high-quality, engaging experiences for clients and users.
+I'm a Mobile App Developer with over 5 years of expertise in iOS, tvOS, and Roku. I excel in crafting innovative and user-friendly apps, leveraging the latest industry technologies and trends to deliver high-quality, engaging experiences for clients and users.
 
 ## My latest projects 👨‍💻
 - NewsLetters is an automated news aggregation system that transforms daily newsletter emails into a structured, categorized news feed. The system combines Gmail automation, AI-powered content analysis, and a mobile app interface for seamless news consumption.
